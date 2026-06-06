@@ -1,0 +1,11 @@
+{
+  "region": [
+    1230,
+    870,
+    1330,
+    990
+  ],
+  "preset": "QHD / 2K 2560x1440",
+  "press_threshold": 0.8,
+  "reset_threshold": 0.55
+}
